@@ -1,0 +1,9 @@
+tribe,dataset,rows,cols,missingness_pct
+Nirankal,roster,120,3,0.5555555555555556
+Virnoda,roster,68,3,0.9803921568627451
+Nirankal,measurements,53,30,10.754716981132075
+Virnoda,measurements,68,30,13.823529411764707
+Nirankal,questionnaire,36,26,51.17521367521367
+Virnoda,questionnaire,51,26,53.31825037707391
+Nirankal,fingerprint_hair,83,32,58.772590361445786
+Virnoda,fingerprint_hair,104,32,50.84134615384615

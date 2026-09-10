@@ -1,0 +1,136 @@
+\begin{thebibliography}{10}
+
+\bibitem{agresti2013}
+Alan Agresti.
+\newblock {\em Categorical Data Analysis}.
+\newblock Wiley, Hoboken, 3 edition, 2013.
+
+\bibitem{benjamini1995}
+Yoav Benjamini and Yosef Hochberg.
+\newblock Controlling the false discovery rate: A practical and powerful
+  approach to multiple testing.
+\newblock {\em Journal of the Royal Statistical Society: Series B},
+  57(1):289--300, 1995.
+
+\bibitem{cliff1993}
+Norman Cliff.
+\newblock Dominance statistics: Ordinal analyses to answer ordinal questions.
+\newblock {\em Psychological Bulletin}, 114(3):494--509, 1993.
+
+\bibitem{cohen1988}
+Jacob Cohen.
+\newblock {\em Statistical Power Analysis for the Behavioral Sciences}.
+\newblock Lawrence Erlbaum Associates, Hillsdale, NJ, 2 edition, 1988.
+
+\bibitem{cramer1946}
+Harald Cram{\'e}r.
+\newblock {\em Mathematical Methods of Statistics}.
+\newblock Princeton University Press, Princeton, 1946.
+
+\bibitem{cummins1961}
+Harold Cummins and Charles Midlo.
+\newblock {\em Finger Prints, Palms and Soles: An Introduction to
+  Dermatoglyphics}.
+\newblock Dover Publications, New York, 1961.
+
+\bibitem{galton1892}
+Francis Galton.
+\newblock {\em Finger Prints}.
+\newblock Macmillan, London, 1892.
+
+\bibitem{harris2020}
+Charles~R. Harris, K.~Jarrod Millman, St{\'e}fan~J. van~der Walt, et~al.
+\newblock Array programming with numpy.
+\newblock {\em Nature}, 585:357--362, 2020.
+
+\bibitem{henry1900}
+Edward~R. Henry.
+\newblock {\em Classification and Uses of Finger Prints}.
+\newblock Routledge, London, 1900.
+
+\bibitem{holt1968}
+Sarah~B. Holt.
+\newblock {\em The Genetics of Dermal Ridges}.
+\newblock Charles C Thomas, Springfield, 1968.
+
+\bibitem{hotelling1933}
+Harold Hotelling.
+\newblock Analysis of a complex of statistical variables into principal
+  components.
+\newblock {\em Journal of Educational Psychology}, 24(6):417--441, 1933.
+
+\bibitem{jolliffe2002}
+Ian~T. Jolliffe.
+\newblock {\em Principal Component Analysis}.
+\newblock Springer, New York, 2 edition, 2002.
+
+\bibitem{little2002}
+Roderick J.~A. Little and Donald~B. Rubin.
+\newblock {\em Statistical Analysis with Missing Data}.
+\newblock Wiley, New York, 2 edition, 2002.
+
+\bibitem{mann1947}
+Henry~B. Mann and Donald~R. Whitney.
+\newblock On a test of whether one of two random variables is stochastically
+  larger than the other.
+\newblock {\em The Annals of Mathematical Statistics}, 18(1):50--60, 1947.
+
+\bibitem{mckinney2010}
+Wes McKinney.
+\newblock Data structures for statistical computing in python.
+\newblock In {\em Proceedings of the 9th Python in Science Conference}, pages
+  56--61, 2010.
+
+\bibitem{pearson1901}
+Karl Pearson.
+\newblock On lines and planes of closest fit to systems of points in space.
+\newblock {\em Philosophical Magazine}, 2(11):559--572, 1901.
+
+\bibitem{pedregosa2011}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, et~al.
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{rubin1976}
+Donald~B. Rubin.
+\newblock Inference and missing data.
+\newblock {\em Biometrika}, 63(3):581--592, 1976.
+
+\bibitem{shannon1948}
+Claude~E. Shannon.
+\newblock A mathematical theory of communication.
+\newblock {\em Bell System Technical Journal}, 27(3):379--423, 1948.
+
+\bibitem{vanbuuren2018}
+Stef van Buuren.
+\newblock {\em Flexible Imputation of Missing Data}.
+\newblock Chapman and Hall/CRC, Boca Raton, 2 edition, 2018.
+
+\bibitem{virtanen2020}
+Pauli Virtanen, Ralf Gommers, Travis~E. Oliphant, et~al.
+\newblock Scipy 1.0: Fundamental algorithms for scientific computing in python.
+\newblock {\em Nature Methods}, 17:261--272, 2020.
+
+\bibitem{wells2006}
+Jonathan C.~K. Wells and Mary~S. Fewtrell.
+\newblock Measuring body composition.
+\newblock {\em Archives of Disease in Childhood}, 91(7):612--617, 2006.
+
+\bibitem{wilcoxon1945}
+Frank Wilcoxon.
+\newblock Individual comparisons by ranking methods.
+\newblock {\em Biometrics Bulletin}, 1(6):80--83, 1945.
+
+\bibitem{who1995}
+{World Health Organization}.
+\newblock {\em Physical Status: The Use and Interpretation of Anthropometry}.
+\newblock WHO Technical Report Series 854. World Health Organization, Geneva,
+  1995.
+
+\bibitem{who2000}
+{World Health Organization}.
+\newblock {\em Obesity: Preventing and Managing the Global Epidemic}.
+\newblock WHO Technical Report Series 894. World Health Organization, Geneva,
+  2000.
+
+\end{thebibliography}
